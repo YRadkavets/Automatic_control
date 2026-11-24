@@ -1,2 +1,2 @@
 # Automatic_control
-Autimatic control course R7003
+Autimatic control course R7003E
